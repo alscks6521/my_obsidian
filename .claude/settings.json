@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs cat:*)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\kiot\\Documents\\Mins\\민서성\\.git"
+    ]
+  }
+}

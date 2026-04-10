@@ -1,0 +1,10 @@
+# Obsidian 플러그인 코드 (저작권)
+.obsidian/plugins/
+
+# Obsidian 워크스페이스 상태 (개인 환경)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 시스템
+.DS_Store
+Thumbs.db
